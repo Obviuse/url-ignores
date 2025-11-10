@@ -53,7 +53,9 @@
     "^/magento",
     "^/z.php",
     "^/config.json",
-    "^/__ns"
+    "^/__ns",
+    ".php$",
+    "^/cgi-bin"
   ],
   "userAgents": [
     "facebookexternalhit",
