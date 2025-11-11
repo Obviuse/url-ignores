@@ -2,6 +2,9 @@
   "urlPatterns": [
     "/404",
     "/500",
+    "/webbplatsen/404",
+    "/webbplatsen/500",
+    "/webbplatsen/502",
     "/admin/cms/",
     "/wp-settings.php",
     "/x.php",
