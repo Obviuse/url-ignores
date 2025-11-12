@@ -3,6 +3,8 @@
     "/404",
     "/500",
     "/webbplatsen/404",
+    "/webbplatsen/401",
+    "/webbplatsen/400",
     "/webbplatsen/500",
     "/webbplatsen/502",
     "/admin/cms/",
